@@ -1,0 +1,20 @@
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\bin\Debug\net8.0-windows\Horas Extras.exe
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\bin\Debug\net8.0-windows\Horas Extras.deps.json
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\bin\Debug\net8.0-windows\Horas Extras.runtimeconfig.json
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\bin\Debug\net8.0-windows\Horas Extras.dll
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\bin\Debug\net8.0-windows\Horas Extras.pdb
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas_Extras.FormLogin.resources
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas_Extras.Properties.Resources.resources
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.csproj.GenerateResource.cache
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.AssemblyInfoInputs.cache
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.AssemblyInfo.cs
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.dll
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\refint\Horas Extras.dll
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.pdb
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.genruntimeconfig.cache
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\ref\Horas Extras.dll
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas_Extras.MainForm.resources
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gabriel.silva\Desktop\Dev\Horas Extras\Horas Extras\obj\Debug\net8.0-windows\Horas Extras.csproj.ResolveComReference.cache
